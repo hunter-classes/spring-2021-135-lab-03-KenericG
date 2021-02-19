@@ -1,10 +1,10 @@
 * Spring 2021 - Lab 03
 
-* Last name:
+* Last name:Prakasam
 
-* First name:
+* First name:Nobel
 
-* GitHub username:
+* GitHub username:KenericG
 
 * Notes:
 
